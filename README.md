@@ -1,4 +1,1 @@
-climateblab.github.io
-=====================
-
-Climate science web laboratory
+Collect and publish this organization's repositories.
